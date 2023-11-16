@@ -1,0 +1,5 @@
+train: /Users/juandanielrestrepomontes/Documents/Capstone-Project-Reading-Invoices/data/imagenes-facturas/YOLODataset/images/train/
+val: /Users/juandanielrestrepomontes/Documents/Capstone-Project-Reading-Invoices/data/imagenes-facturas/YOLODataset/images/val/
+test: /Users/juandanielrestrepomontes/Documents/Capstone-Project-Reading-Invoices/data/imagenes-facturas/YOLODataset/images/test/
+nc: 1
+names: ["invoice"]

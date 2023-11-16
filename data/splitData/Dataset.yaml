@@ -1,0 +1,7 @@
+path: 
+train: /Users/juandanielrestrepomontes/Documents/Capstone-Project-Reading-Invoices/data/splitData/train/
+val: /Users/juandanielrestrepomontes/Documents/Capstone-Project-Reading-Invoices/data/splitData/val/
+test: /Users/juandanielrestrepomontes/Documents/Capstone-Project-Reading-Invoices/data/splitData/test/
+
+nc: 1
+names: ['invoice']
